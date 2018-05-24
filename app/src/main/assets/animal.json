@@ -1,0 +1,31 @@
+{
+  "main_title": "Animals",
+  "category": [
+    {
+      "sub_title": "Animals General",
+      "tags": "#animals #animal #pet #TagsForLikes #dog #cat #dogs #cats #photooftheday #cute #pets #instagood #animales #cute #love #nature #animallovers #pets_of_instagram #petstagram #petsagram"
+    },
+    {
+      "sub_title": "Dogs",
+      "tags": "#dog #dog #puppy #pup #TagsForLikes #cute #eyes #instagood #dogs_of_instagram #pet #pets #animal #animals #petstagram #petsagram #dogsitting #photooftheday #dogsofinstagram #ilovemydog #instagramdogs #nature #dogstagram #dogoftheday #lovedogs #lovepuppies #hound #adorable #doglover #instapuppy #instadog"
+    },
+    {
+      "sub_title": "Cats",
+      "tags": "#cat #cats #TagsForLikes #catsagram #catstagram #instagood #kitten #kitty #kittens #pet #pets #animal #animals #petstagram #petsagram #photooftheday #catsofinstagram #ilovemycat #instagramcats #nature #catoftheday #lovecats #furry #sleeping #lovekittens #adorable #catlover #instacat"
+    },
+    {
+      "sub_title": "Horses",
+      "tags": "#horses #horse #horsesofinstagram #TagsForLikes #horseshow #horseshoe #horses_of_instagram #horsestagram #instahorses #wild #mane #instagood #grass #field #farm #nature #pony #ponies #ilovemyhorse #babyhorse #beautiful #pretty #photooftheday #gallop #jockey #rider #riders #riding"
+    },
+
+    {
+      "sub_title": "Insects",
+      "tags": "#insects #insect #bug #bugs #TagsForLikes #bugslife #macro #closeup #nature #animals #animals #instanature #instagood #macrogardener #macrophotography #creature #creatures #macro_creature_feature #photooftheday #wildlife #nature_shooters #earth #naturelover #lovenature"
+    },
+    {
+      "sub_title": "Fish",
+      "tags": "#fish #aquarium #fishtank #TagsForLikes #fishporn #instafish #instagood #swim #swimming #water #coral #reef #reeftank #tropical #tropicalfish #aquaria #photooftheday #saltwater #freshwater #beautiful #ocean #watertank"
+    }
+
+  ]
+}
